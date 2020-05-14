@@ -1,1 +1,22 @@
-theme: jekyll-theme-minimal
+github:
+    is_project_page: false
+    
+theme: jekyll-theme-cayman
+name: Carmel Freeman, Musician
+title: null
+profile_pic: images/carmeldune.JPG
+
+docs:
+-
+  title: bio
+  url: pages/bio.html
+-
+  title: audio/visual
+  url: pages/av.html
+-
+  title: selected works
+  url: pages/works.html
+-
+  title: contact
+  url: pages/contact.html
+
