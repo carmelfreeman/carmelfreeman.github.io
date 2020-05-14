@@ -1,0 +1,96 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+  color: black;
+}
+
+.main {
+	font-family: Georgia;
+	font-size: 20px;
+	float: left;
+  	padding: 10px;
+}
+
+.home {
+	float: left;
+	padding-left: 10px;
+	padding-top: 150px;
+	font-family: Georgia, serif;
+	font-size: 20px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+.sidebar {
+	font-family: Georgia, serif;
+	width: 25%;
+	margin: 0;
+	padding: 80px 0;
+	text-align: center;
+	border-right-style: solid;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+.sidebar img {
+	width: 120px; /* or any custom size */
+}
+
+.body {
+	width: 75%;
+	padding-left: 15px;
+}
+
+/* Clear floats after the columns */
+.realdeal:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #efab31;
+}
+
+.page-content {
+  width: 700px;
+  margin: auto;
+}
+
+.nav-links {
+	font-family: Georgia, serif;
+	font-size: 20px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+
+/* Responsive layout - when the screen is less than ~~~px wide, make the two columns stack on top of each other instead of next to each other */
+// @media screen and (max-width: 400px) {
+//   .main {
+//     width: 100%;
+//   }
+// }
+// 
