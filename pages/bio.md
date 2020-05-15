@@ -1,3 +1,3 @@
-Carmel Freeman is a Canadian-Israeli composer (Haifa, 1989) who is also active as a pianist and guitarist of improvised music. 
+Carmel Freeman (Haifa, 1989)is a Canadian-Israeli composer who is also active as a pianist and guitarist of improvised music. 
 Carmel studied jazz performance at the University of Toronto and York University and is currently completing his Masters in Classical Composition at Codarts (formerly known as the Rotterdam Conservatory of Music). 
 Areas informing Carmel's practice include linguistics (phonetics, prosody, morphology), bioacoustic spectra/rhythm and polymodal chromaticism. Carmel is also active as a film/video-game composer. He is based in The Hague, Netherlands.
