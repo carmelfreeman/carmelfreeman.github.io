@@ -16,10 +16,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/69SL3t5eLVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ###### The work was composed and recorded during the Covid-19 pandemic, a time where a simple measurement has taken on a completely new meaning. As well as being performed by musicians in isolation, the musical gestures are shaped by a social distancing architecture that has forced us to be both linked and detached, intertwined and isolated.
 
-###### Maria Martpay - Marimba
-###### Mayuko Takeda - Bass Clarinet
-###### Ola Kwiatkowska - Violin
-###### Chema Martinez Martinez - Violoncello
+###### Maria Martpay - Marimba; Mayuko Takeda - Bass Clarinet; Ola Kwiatkowska - Violin; Chema Martinez Martinez - Violoncello
 <!-- Life of a Lost balloon -->
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/820266232&color=%23d9bc90&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 ###### A balloon drifts into anonymity and away from its owner. No longer associated with the occasion it once represented, the balloon is now a nameless plastic husk floating in space. This electronic composition was made with audio recordings of balloons, other found objects and manipulated with computer software. These recordings, like lost balloons, are removed from their original context and forced into obscurity.
