@@ -1,1 +1,1 @@
-I teach piano and guitar, with a focus on jazz, theory and improvisation. Lessons are generally given from my home in Den Haag (Mariahoeve), but I may be able to travel to you. Rates start at €25/hr. For further details, (contact me)[https://carmelfreeman.com/pages/contact.html].
+I teach piano and guitar, with a focus on jazz, theory and improvisation. Lessons are generally given from my home in Den Haag (Mariahoeve), but I may be able to travel to you. Rates start at €25/hr. For further details, [contact me](https://carmelfreeman.com/pages/contact.html).
