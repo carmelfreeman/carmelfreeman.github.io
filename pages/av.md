@@ -2,7 +2,7 @@ Below are some of my recent works.
 
 ### LAG (2020)
 <!-- LAG -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lGtmOmPbGf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lGtmOmPbGf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 I wrote this during the first few months of the COVID-19 pandemic, when the majority of social interactions were transplanted to videotelephonic interfaces. Our lives suddenly took place online, remotely and at a distance from each other. This composition speaks to the latency inherent in these platforms (zoom, etc.) , as well as the disconnect propagated by the new normal. 
 
 Marco Silva - Violin  
