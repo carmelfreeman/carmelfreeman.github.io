@@ -1,7 +1,7 @@
 Below are some of my recent works.
 
 ### LAG (2020)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lGtmOmPbGf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/lGtmOmPbGf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 I wrote this during the first few months of the COVID-19 pandemic, when the majority of social interactions were transplanted to videotelephonic interfaces. Our lives suddenly took place online, remotely and at a distance from each other. This composition speaks to the latency inherent in these platforms (zoom, etc.) , as well as the disconnect propagated by the new normal. 
 
 Marco Silva - Violin  
@@ -29,7 +29,7 @@ At the crux of this composition is the flux between unity and chaos that flows t
 Contained in the worlds appearances are virtual potentials. Deleuze & Guattari’s body without organs is granted access to a deterritorialized horizon of continuous intensities. Questions about hierarchy, organization, reproduction and stasis shape the architecture of this composition. Recorded at WORM Studios, Rotterdam.
 
 ### One Point Five Meters (2020)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/69SL3t5eLVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/69SL3t5eLVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 The work was composed and recorded during the Covid-19 pandemic, a time where a simple measurement has taken on a completely new meaning. As well as being performed by musicians in isolation, the musical gestures are shaped by a social distancing architecture that has forced us to be both linked and detached, intertwined and isolated.
 
 Maria Martpay - Marimba  
