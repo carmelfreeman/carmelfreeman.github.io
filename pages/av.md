@@ -3,11 +3,11 @@ Below are some of my recent works.
 ### LAG (2020)
 <!-- LAG -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lGtmOmPbGf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-I wrote Lag during the first few months of the COVID-19 pandemic, when the majority of social interactions were transplanted to videotelephonic interfaces. Our lives suddenly took place online, remotely and at a distance from each other. This composition speaks to the latency inherent in these platforms (zoom, etc.) , as well as the disconnect propagated by the new normal. 
+I wrote this during the first few months of the COVID-19 pandemic, when the majority of social interactions were transplanted to videotelephonic interfaces. Our lives suddenly took place online, remotely and at a distance from each other. This composition speaks to the latency inherent in these platforms (zoom, etc.) , as well as the disconnect propagated by the new normal. 
 
-Marco Silva - Violin
-Jan Zygmunt - Cello 
-S'yo Fang - Piano
+Marco Silva - Violin  
+Jan Zygmunt - Cello  
+S'yo Fang - Piano  
 
 ### Rest for Three (2020)
 <!-- Rest for three -->
@@ -36,10 +36,10 @@ Contained in the worlds appearances are virtual potentials. Deleuze & Guattariâ€
 <iframe width="560" height="315" src="https://www.youtube.com/embed/69SL3t5eLVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 The work was composed and recorded during the Covid-19 pandemic, a time where a simple measurement has taken on a completely new meaning. As well as being performed by musicians in isolation, the musical gestures are shaped by a social distancing architecture that has forced us to be both linked and detached, intertwined and isolated.
 
-Maria Martpay - Marimba
-Mayuko Takeda - Bass Clarinet
-Ola Kwiatkowska - Violin
-Chema Martinez Martinez - Violoncello
+Maria Martpay - Marimba  
+Mayuko Takeda - Bass Clarinet  
+Ola Kwiatkowska - Violin  
+Chema Martinez Martinez - Violoncello  
 
 ### Life of a Lost Balloon (2018)
 <!-- Life of a Lost balloon -->
